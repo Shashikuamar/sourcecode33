@@ -1,0 +1,81 @@
+ 492  cd /c/sourcecode33
+  493  ls
+  494  git --help
+  495  git status
+  496  git init
+  497  cd .git
+  498  ls
+  499  ls -l
+  500  git status
+  501  cd ..
+  502  git config --global user,email
+  503  git config --global list
+  504  git config --global list
+  505  git config --global --list
+  506  git status
+  507  git add first.sh
+  508  git commit -m"my first shell script"
+  509  git status
+  510  git add .
+  511  git status
+  512  git status
+  513  git add first.sh
+  514  git status
+  515  git commit -m"i have solove the issue on line #15"
+  516  git status
+  517  git status
+  518  git add second.sh
+  519  git commit -m"added second.sh"
+  520  git log
+  521  git --help
+  522  git -h
+  523     cd .git/
+  524  ls
+  525  cat HEAD
+  526  cd refs/heads/master
+  527  cd refs/heads/
+  528  LS
+  529  ls -l
+  530  cat master
+  531  cd ..
+  532  cd ..
+  533  ls
+  534   ls -l
+  535  cat index
+  536  cat hooks
+  537  cat config
+  538  cd ..
+  539  git status
+  540  git status
+  541  git add .
+  542  git commit -m"deleted second.sh added first.py"
+  543  git status
+  544  git --h
+  545  git -h
+  546  cd ..
+  547  cd -
+  548  cd ..
+  549  git clone https://github.com/Shashikuamar/sourcecode33.git
+  550  ls
+  551  cd -
+  552  git remote -h
+  553  git remote add origin master git@github.com:Shashikuamar/sourcecode33.git
+  554  git remote add origin git@github.com:Shashikuamar/sourcecode33.git
+  555  git status
+  556  git remote -v
+  557  git push orogin master
+  558  git push origin master
+  559  ssh -keygen -t rsa
+  560  ssh-keygen -t rsa
+  561  git status
+  562  git add .
+  563  git commit -m"added one line first.py"
+  564  git push origin master
+  565  ssh-keygen -t rsa
+  566  cat/c/Users/shash/.ssh/id_rsa.pub
+  567  cat /c/Users/shash/.ssh/id_rsa.pub
+  568  git push origin master
+  569  git status
+  570  git push origin master
+  571  git status
+  572  history
