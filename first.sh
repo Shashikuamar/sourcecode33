@@ -12,4 +12,3 @@ read Lname
 
 echo "welcome $Fname $Lname, This is the Devops session"
 
-gi
